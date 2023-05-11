@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">SunriseApplication</string>
+    <string name="user_str_menu">Menu</string>
+    <string name="user_str_search">Tìm kiếm</string>
+    <string name="user_str_category">Chuyên mục</string>
+    <string name="user_str_category_other">Chuyên mục khác</string>
+    <string name="user_str_fllow">Theo dõi báo trên</string>
+    <string name="user_str_hotline">Hotline</string>
+    <string name="user_str_contact_ads">Liên hệ quảng cáo</string>
+    <string name="user_str_ads1">Đặt báo</string>
+    <string name="user_str_ads2">Quảng cáo</string>
+    <string name="user_str_ads3">RSS</string>
+    <string name="user_str_ads4">Tòa soạn</string>
+    <string name="user_str_author">Tổng biên tập: Nguyễn Ngọc Toàn \nPhó tổng biên tập: Hải Thành \nPhó tổng biên tập: Đặng Thị Phương Thảo \nPhó tổng biên tập: Lâm Hiếu Dũng \nỦy viên Ban biên tập - Tổng Thư ký tòa soạn: Trần Việt Hưng</string>
+    <string name="user_str_permit">Giấy phép xuất bản số 110/GP - BTTTT cấp ngày 24.3.2020 \n©2003-2022 Bản quyền thuộc về Báo Thanh Niên. \nCấm sao chép dưới mọi hình thức nếu không có sự chấp thuận bằng văn bản.</string>
+    <string name="user_str_security">Chính sách bảo mật</string>
+    <!--    user-->
+    <!--    dialog-->
+    <string name="splash_str_notification">Thông báo</string>
+    <string name="splash_str_new_version">Chúng tôi đã phát hành một phiên bản mới hơn cho ứng dụng này.Vui lòng cập nhật ngay.</string>
+    <string name="splash_str_not_network">Không thể kết nối với network, bạn vui lòng kiểm tra lại kết nối.</string>
+    <string name="splash_str_ok">Đồng ý</string>
+    <string name="splash_str_no">Không</string>
+    <string name="dl_cancel_delete_acc">Huỷ Bỏ</string>
+    <string name="dl_close">Đóng</string>
+    <string name="dl_notification">Thông báo</string>
+    <string name="dl_confirm_delete_acc">Xác nhận</string>
+    <string name="confirm_delete_acc">Xác nhận xoá tài khoản</string>
+    <string name="sub_confirm_delete_acc">Bạn có chắc chắn muốn xoá tài khoản?
+Thao tác này không thể hoàn tác, toàn bộ thông tin cá nhân bao gồm tên, hình đại diện, địa chỉ email, số điện thoại và bình luận của bạn trên ứng dụng Thanh Niên sẽ bị xóa</string>
+    <string name="title_delete_account_success">Xóa tài khoản thành công</string>
+    <string name="message_delete_account_success">Thông tin tài khoản của bạn đã được xóa trên hệ thống</string>
+    <!--    dialog-->
+    <!--    news-->
+    <string name="news_str_news">Tin mới</string>
+    <!--    news-->
+    <!--    search-->
+    <string name="search_txt_result_first">Tìm thấy</string>
+    <string name="search_txt_result_end">kết quả</string>
+    <string name="search_no_content">Không tìm thấy kết quả</string>
+    <string name="search_str_hint">Nhập từ khóa, tiêu đề bài viết...</string>
+    <!--    search-->
+    <!--    setting-->
+    <string name="setting_str_change_password">Đổi mật khẩu</string>
+    <string name="setting_str_setting">Cài đặt</string>
+    <string name="setting_str_logut">Đăng xuất</string>
+    <string name="setting_str_delete_acc">Xóa tài khoản</string>
+    <string name="setting_str_infor_security">Mọi thông tin cá nhân của độc giả được chúng tôi bảo mật tuyệt đối. Bạn có thể xóa tài khoản trong trường hợp bạn không còn muốn lưu trữ và hiển thị thông tin trên ứng dụng.</string>
+    <!--    setting-->
+
+    <!--    dialog-->
+    <!--    dialog-->
+
+    <!--    account_information-->
+    <string name="account_str_infor_account">Thông tin tài khoản</string>
+    <string name="account_str_name_show">Tên hiển thị</string>
+    <string name="account_str_sex">Giới tính</string>
+    <string name="account_str_male">Nam</string>
+    <string name="account_str_female">Nữ</string>
+    <string name="account_str_sex_more">Khác</string>
+    <string name="account_str_date_of_birth">Ngày sinh</string>
+    <string name="account_str_email">Email</string>
+    <string name="account_str_input_email">Nhập email</string>
+    <string name="account_str_input_birth_day">Chọn Ngày/Tháng/Năm</string>
+    <string name="account_str_input_name">Nhập tên</string>
+    <string name="account_str_number_phone">Điện thoại</string>
+    <string name="account_str_number_phone_input">Nhập số điện thoại</string>
+    <string name="account_str_address">Địa chỉ</string>
+    <string name="account_str_city">Tỉnh/thành phố</string>
+    <string name="account_str_empty_name">Thông tin không được bỏ trống</string>
+    <string name="account_str_invalid_email">Email không hợp lệ</string>
+    <string name="account_str_invalid_phone">Số điện thoại không hợp lệ</string>
+    <string name="account_str_invalid_password">Mật khẩu phải có từ 8 đến 20 ký tự không được có dấu tiếng Việt hoặc chứa dấu cách</string>
+    <string name="account_str_invalid_password_alike">Mật khẩu nhập lại không đúng</string>
+    <string name="account_str_invalid_name_show">Tên hiển thị không được có kí tự đặc biệt</string>
+    <!--    account_information-->
+
+    <!--    change_password-->
+    <string name="change_password_old">Mật khẩu cũ</string>
+    <string name="change_password_input_old">Nhập mật khẩu cũ</string>
+    <string name="change_password_news">Mật khẩu mới</string>
+    <string name="change_password_input_news">Nhập mật khẩu mới</string>
+    <string name="change_password_input_news_replay">Nhập lại mật khẩu mới</string>
+    <string name="change_password_save_change">Lưu thay đổi</string>
+    <string name="login_str_success">Thành công</string>
+    <string name="login_str_change_password_success">Mật khẩu đã được thay đổi</string>
+    <!--    change_password-->
+
+    <!--    login-->
+    <string name="login_str_sign_in">Đăng nhập</string>
+    <string name="login_str_sign_in_fail">Đăng nhập không thành công</string>
+    <string name="login_str_sign_in_success">Đăng nhập thành công</string>
+    <string name="login_str_sign_in_fail_descriotion">Tài khoản của bạn đã bị khóa vì vi phạm chính sách bảo mật của báo, vui lòng xem:</string>
+    <string name="login_str_security">Chính sách bảo mật</string>
+    <string name="login_str_person">Trang cá nhân</string>
+    <string name="login_str_sign_up">Đăng ký tài khoản</string>
+    <string name="login_str_sign_up_tab_layout">Đăng ký</string>
+    <string name="login_str_society">Bằng tài khoản mạng xã hội</string>
+    <string name="login_str_description">Khi bấm đăng ký tài khoản bạn đã đồng ý với <u><b>quy định</b></u> của tòa soạn</string>
+    <string name="txt_image">Ảnh:</string>
+    <string name="login_str_google">Google</string>
+    <string name="login_str_facebook">Facebook</string>
+    <string name="login_str_zalo">Zalo</string>
+    <string name="login_str_or">Hoặc</string>
+    <string name="login_str_email_empty">Email không được để trống</string>
+    <string name="login_str_login_fail">Email hoặc tài khoản đăng nhập chưa đúng, vui lòng thử lại</string>
+    <string name="login_str_password_empty">Thông tin không được bỏ trống</string>
+    <string name="login_str_password">Mật khẩu</string>
+    <string name="login_str_password_input">Nhập mật khẩu</string>
+    <string name="login_str_password_forgot">Quên mật khẩu?</string>
+    <string name="login_str_number_phone">Số điện thoại</string>
+    <string name="login_str_sign_apple">Sign in with Apple</string>
+    <string name="login_str_password_replay">Xác nhận mật khẩu</string>
+    <string name="register_success">Bạn đã đăng ký thành công</string>
+    <!--    login-->
+
+    <!--    forgot password-->
+    <string name="forgot_password_str_email">Nhập email của bạn để lấy lại mật khẩu</string>
+    <string name="forgot_password_str_forgot_password">Lấy lại mật khẩu</string>
+    <string name="forgot_password_sub_title_start">Mật khẩu mới đã được gửi đến địa chỉ email</string>
+    <string name="forgot_password_sub_title_end">của bạn</string>
+    <!--    forgot password-->
+    <string name="text_vote">Bình chọn</string>
+    <string name="text_view_result">Xem kết quả</string>
+    <string name="text_had">Đã có</string>
+
+    <string name="text_recently">Vừa xong</string>
+    <string name="text_minute_ago">phút trước</string>
+    <string name="text_hour_ago">giờ trước</string>
+    <string name="text_day_ago">ngày trước</string>
+    <string name="text_for_you_description">Bạn hãy chọn chuyên mục, chủ đề và địa phương mà mình quan tâm. Hệ thống sẽ hiển thị tin tức phù hợp nhất với bạn</string>
+    <string name="text_setting">Tùy chỉnh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="read_more">Đọc thêm</string>
+    <string name="text_author">Tác giả</string>
+    <string name="text_select_category">Chọn chuyên mục</string>
+    <string name="select_topic">Chọn chủ đề</string>
+    <string name="select_location">Chọn địa phương</string>
+    <string name="text_select_city">Chọn thành phố</string>
+    <string name="text_save">Lưu lại</string>
+    <string name="news_relation">Tin liên quan</string>
+    <string name="getLink">Lấy Link</string>
+    <string name="clipboard">Đã sao chép vào Clipboard</string>
+    <string name="text_quick_view_disable">Giúp bạn xem tiêu đề nhanh hơn</string>
+    <string name="text_quick_view_enable">Đang bật</string>
+    <string name="text_cancel">Hủy</string>
+    <string name="text_error">Có lỗi xảy ra khi tải trang</string>
+    <string name="text_try_again">Thử lại</string>
+    <string name="text_no_notify">Không có thông báo</string>
+    <string name="text_no_book_mark">Bạn chưa lưu tin nào</string>
+    <string name="default_notification_channel_id">10001</string>
+
+    // token
+    <string name="appIDZalo">624160818882795756</string>
+    <string name="facebook_app_id">403237164337145</string>
+    <string name="facebook_client_token">3cb2ec1dba1069a9ded813865a8e9dc4</string>
+    <string name="fb_login_protocol_scheme">fb403237164337145</string>
+    <string name="done">Xong</string>
+</resources>
