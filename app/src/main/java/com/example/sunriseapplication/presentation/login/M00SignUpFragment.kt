@@ -17,10 +17,6 @@ class M00SignUpFragment : BaseFragment<M00FragmentSignUpBinding>(M00FragmentSign
 
     }
 
-    override fun onViewClicked(view: View?) {
-
-    }
-
     override fun onClick(p0: View?) {
 
     }

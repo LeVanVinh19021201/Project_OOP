@@ -4,7 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="black_45">#454545</color>
     <color name="color_login_background_icon">#F6F6F6</color>
-    <color name="primary">#0397D3</color>
+    <color name="primary">#0084FF</color>
     <color name="active">@color/primary</color>
     <color name="gray_666">#666666</color>
     <color name="color_app">#0397D3</color>

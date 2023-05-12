@@ -91,6 +91,4 @@ abstract class BaseFragment<T : ViewBinding>(private val bindingInflater: (layou
             }
         }
     }
-
-    abstract fun onViewClicked(view: View?)
 }

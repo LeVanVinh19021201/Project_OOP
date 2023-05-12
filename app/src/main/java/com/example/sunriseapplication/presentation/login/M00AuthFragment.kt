@@ -31,10 +31,6 @@ class M00AuthFragment : BaseFragment<M00FragmentAuthBinding>(M00FragmentAuthBind
 
     }
 
-    override fun onViewClicked(view: View?) {
-
-    }
-
     override fun onClick(p0: View?) {
 
     }
