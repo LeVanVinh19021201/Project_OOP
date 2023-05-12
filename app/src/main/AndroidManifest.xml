@@ -13,15 +13,6 @@
         android:theme="@style/Theme.SunriseApplication"
         tools:targetApi="31">
         <activity
-            android:name=".view.login.M00SignUpActivity"
-            android:exported="false" />
-        <activity
-            android:name=".view.login.M00SIgnInActivity"
-            android:exported="false" />
-        <activity
-            android:name=".view.login.M00AuthActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
